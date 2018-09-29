@@ -1,2 +1,6 @@
 # trabalho-orgb
-Implementação de instruções na arquitetura MIPS
+Funções já implementadas:
+
+- LBU
+- ORI
+- BGEZ
