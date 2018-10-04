@@ -5,3 +5,4 @@ Funções já implementadas:
 - ORI
 - BGEZ
 - DIV
+- JAL
